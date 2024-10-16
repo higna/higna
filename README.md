@@ -26,18 +26,6 @@ IT Professional skilled in leveraging technology to develop and deploy solutions
 
 ---
 
-## 📜 Certifications
-
-- **Python for Data Science & AI Development** (IBM, Sep 2024)
-- **Introduction to Statistical Analysis & Machine Learning using R** (IITA, Apr 2024)
-- **Essentials of Data Visualization using MS Excel** (Acacia University, Feb 2024)
-- **HR Attrition Analysis using MS Excel** (Anietie Etuk, Jan 2024)
-- **Technical Support Fundamentals** (Google, Dec 2023)
-- **IT Security: Defense against the Digital Dark Arts** (Google, Nov 2023)
-- **Basics of Digital Marketing** (UniAthena, Nov 2023)
-
----
-
 ## 🌐 Languages
 
 - **English**: Fluent

@@ -14,58 +14,6 @@
 
 IT Professional skilled in leveraging technology to develop and deploy solutions, automate processes, contribute to innovative research, data analysis, software & content development, and management at the International Institute of Tropical Agriculture (IITA), Virology and Molecular Diagnostics Unit.
 
----
-
-## 🧑‍💼 Work Experience
-
-### IT Professional  
-**Virology & Molecular Diagnostics Unit (IITA)**  
-_Nov 2022 - Present_
-
-- Design and deploy custom data collection tools using ODK.
-- Apply data analytics techniques using Excel, Google Sheets, Python, and R.
-- Develop and visualize data through dashboards in Looker Studio and Power BI.
-- Create and manage web applications using HTML, CSS, JavaScript, React, and WordPress.
-- Manage social media content and create presentations for project promotions.
-- Handle technical support and user issues for the Seed Tracker platform.
-
-### Public and Press Relations (NYSC)  
-**Orientation Broadcasting Service (OBS)**  
-_Jan 2023 - Nov 2023_
-
-- Worked as a creative photographer, capturing high-quality images.
-
-### Photographer | Graphics Designer  
-**Stoney Photography**  
-_Jul 2021 - Jul 2022_
-
-- Conducted photography sessions and edited photos with Photoshop and Lightroom.
-- Created visual content for social media and print campaigns.
-
-### IT Professional | Data Analyst  
-**Angelic Unique Waters**  
-_Nov 2019 - Jun 2021_
-
-- Analyzed data using MS Excel and built custom web applications.
-- Handled customer service tasks and maintained web applications.
-
----
-
-## 🎓 Education
-
-**University of Ibadan**  
-_Masters in Artificial Intelligence_  
-2023 - Present
-
-**Dominican University, Ibadan**  
-_Bachelor's in Computer Science_  
-2017 - 2021
-
-**Federal School of Statistics, Ibadan**  
-_National Diploma in Computer Science_  
-2016 - 2017
-
----
 
 ## 🛠️ Skills
 
@@ -104,14 +52,8 @@ _National Diploma in Computer Science_
 ## 🌐 Languages
 
 - **English**: Fluent
-- **Igbo**: Fluent 
-
----
-
-## 📞 References
-
-- Available Upon Request
-
+- **Igbo**: Fluent
+  
 ---
 
 For more details and project work, please visit my [portfolio](https://higna.vercel.app).

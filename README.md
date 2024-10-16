@@ -26,17 +26,6 @@ IT Professional skilled in leveraging technology to develop and deploy solutions
 
 ---
 
-## 📈 Projects
-
-- **[Personal Website](https://higna.vercel.app)**: A portfolio showcasing my projects and professional details.
-- **[Cassava Seed Tracker](https://tinyurl.com/cstdboard)**: Maintained the WordPress-based website for tracking cassava seed data and built interactive dashboards.
-- **[BBTV Alliance](https://bbtvalliance.org/newsite)**: Developed and managed the project website using WordPress.
-- **[OGFIMS Interactive Dashboard](https://tinyurl.com/ogfimsdashboard)**: Built an interactive dashboard to visualize and analyze project data.
-- **[Web Scraper](https://github.com/higna/web_scraper)**: Created a web scraper using Selenium to automate data entry.
-- **[Recyclick Africa](https://recyclick.africa)**: Built and managed the website using React JS.
-
----
-
 ## 📜 Certifications
 
 - **Python for Data Science & AI Development** (IBM, Sep 2024)

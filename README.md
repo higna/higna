@@ -104,17 +104,13 @@ _National Diploma in Computer Science_
 ## 🌐 Languages
 
 - **English**: Fluent
-- **Igbo**: Fluent in comprehension, partially fluent in speaking
-- **French**: Partial understanding
+- **Igbo**: Fluent 
 
 ---
 
 ## 📞 References
 
-- **Mrs. Leticia Igna-Igboko**  
-  CEO, Angelic Unique Waters  
-  Email: lignaigboko@gmail.com  
-  Phone: +234-805-540-0184
+- Available Upon Request
 
 ---
 

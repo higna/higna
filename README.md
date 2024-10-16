@@ -17,12 +17,42 @@ IT Professional skilled in leveraging technology to develop and deploy solutions
 
 ## 🛠️ Skills
 
-- **Programming Languages**: Python, JavaScript, Java, Kotlin, R
-- **Web Development**: HTML, CSS, JavaScript, WordPress
-- **Data Analysis**: MySQL, Google Data Studio, R, MS Excel, Python
-- **Tools and Technologies**: Google Sheets, ODK Collect, Canva, Adobe Photoshop, Lightroom
-- **Digital Marketing**: SEO, Social Media Marketing
-- **Customer Support**: Troubleshooting, Technical Support, Networking
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+
+### Web Development
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+### Data Analysis
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Google Data Studio](https://img.shields.io/badge/Google%20Data%20Studio-4285F4?style=for-the-badge&logo=google-data-studio&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Tools and Technologies
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
+![ODK Collect](https://img.shields.io/badge/ODK%20Collect-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=adobe-lightroom&logoColor=white)
+
+### Digital Marketing
+![SEO](https://img.shields.io/badge/SEO-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Social Media Marketing](https://img.shields.io/badge/Social%20Media%20Marketing-4267B2?style=for-the-badge&logo=facebook&logoColor=white)
+
+### Customer Support
+![Troubleshooting](https://img.shields.io/badge/Troubleshooting-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Technical Support](https://img.shields.io/badge/Technical%20Support-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
 
 ---
 

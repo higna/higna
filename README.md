@@ -14,6 +14,7 @@
 
 IT Professional skilled in leveraging technology to develop and deploy solutions, automate processes, contribute to innovative research, data analysis, software & content development, and management at the International Institute of Tropical Agriculture (IITA), Virology and Molecular Diagnostics Unit.
 
+---
 
 ## 🛠️ Skills
 
@@ -54,13 +55,6 @@ IT Professional skilled in leveraging technology to develop and deploy solutions
 ![Technical Support](https://img.shields.io/badge/Technical%20Support-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Networking](https://img.shields.io/badge/Networking-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
 
----
-
-## 🌐 Languages
-
-- **English**: Fluent
-- **Igbo**: Fluent
-  
 ---
 
 For more details and project work, please visit my [portfolio](https://higna.vercel.app).

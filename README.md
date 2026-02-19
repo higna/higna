@@ -1,50 +1,81 @@
-# Hector Igna-Igboko
+<h1 align="center">Hector Igna-Igboko</h1>
 
-Software Developer focused on building scalable web applications, data-driven systems, and automation tools.
+<p align="center">
+  Fullstack Developer • Data Systems Engineer • Automation Builder
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Applications;Designing+Data+Driven+Systems;MERN+Stack+%7C+Python+%7C+R" />
+</p>
 
 ---
 
-## 🚀 About Me
+## 🚀 Profile
 
-I design and develop fullstack applications, with experience in data systems, research environments, and digital solutions.
+I build **scalable web applications and data systems** with a strong focus on backend architecture, data integrity, and real-world usability.
 
-Currently working on:
-- Fullstack platforms (Next.js + Node/Django)
-- Data tracking and analytics systems
-- Process automation and system design
+My work sits at the intersection of:
+- Fullstack engineering (MERN)
+- Data management and analysis (Python, R)
+- Workflow automation and system design
+
+---
+
+## 🧠 What I Do
+
+- Architect and develop fullstack applications using the MERN stack  
+- Design and manage structured data systems  
+- Build APIs and backend services for scalable platforms  
+- Analyze and process data using Python and R  
+- Automate workflows to reduce manual processes  
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**
-Python • JavaScript • Java • Kotlin • R
+**Fullstack Development**  
+MongoDB • Express • React • Node.js • Next.js  
 
-**Frontend**
-React • HTML • CSS • Next.js
+**Data & Analysis**  
+Python • R • MySQL • Excel  
 
-**Backend & Data**
-Node.js • Django • MySQL • MongoDB
-
-**Tools**
-Git • Google Sheets • ODK • Excel • Canva • Adobe Suite
+**Tools & Workflow**  
+Git • REST APIs • ODK • Google Sheets  
 
 ---
 
-## 📌 Key Focus Areas
+## 📂 Featured Projects
 
-- Fullstack Development (MERN / Next.js)
-- Data Systems & Visualization
-- API Design & Backend Architecture
-- Automation & Workflow Optimization
+### 🔹 Cocoa Seed Tracker
+Fullstack platform for managing and tracking cocoa seed distribution.  
+- MERN + Next.js architecture  
+- Role-based authentication and access control  
+- Data tracking and reporting system  
 
 ---
 
-## 🌐 Links
+### 🔹 Lab Networking System
+System for managing laboratories, equipment, and geospatial data.  
+- MERN stack implementation  
+- Interactive mapping (Leaflet)  
+- Equipment and event management  
 
-- Portfolio: https://higna.vercel.app  
-- GitHub: https://github.com/higna  
-- LinkedIn: https://www.linkedin.com/in/hector-ignatius  
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=higna&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=higna&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Connect
+
+Portfolio: https://higna.vercel.app  
+GitHub: https://github.com/higna  
+LinkedIn: https://www.linkedin.com/in/hector-ignatius  
 
 ---
 

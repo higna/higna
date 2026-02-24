@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=0A66C2&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Building+Scalable+Systems;Python+%7C+R+for+Data;Automation+Focused" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=0A66C2&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+Scalable+Systems;Python+%7C+R+for+Data;Automation+Focused" />
 </p>
 
 ---
